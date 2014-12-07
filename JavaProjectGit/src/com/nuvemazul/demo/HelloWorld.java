@@ -11,4 +11,8 @@ public class HelloWorld {
 		}
 	}
 
+	public int addOnePlusOne() {
+		return 1+1;
+	}
+	
 }
