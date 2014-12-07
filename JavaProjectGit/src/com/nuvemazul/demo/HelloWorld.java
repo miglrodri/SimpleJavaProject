@@ -7,4 +7,8 @@ public class HelloWorld {
 		System.out.println("cenas");
 	}
 
+	public int addOnePlusOne() {
+		return 1+1;
+	}
+	
 }
