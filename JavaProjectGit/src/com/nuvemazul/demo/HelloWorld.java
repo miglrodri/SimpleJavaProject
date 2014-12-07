@@ -7,11 +7,11 @@ public class HelloWorld {
 		System.out.println("cenas");
 		
 		if (true) {
-			// call some method
+			System.out.println(addOnePlusOne());
 		}
 	}
 
-	public int addOnePlusOne() {
+	public static int addOnePlusOne() {
 		return 1+1;
 	}
 	
